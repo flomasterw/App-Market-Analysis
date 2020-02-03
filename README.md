@@ -1,5 +1,4 @@
-# App-Market-Analysis
-App-Market-Analysis: Apple Store and Google Play Store
+# App-Market-Analysis: Apple Store and Google Play Store
 Author: Shiying Wang, Ruochen Zhong, Qing Gao
 
 
