@@ -1,8 +1,8 @@
 # App-Market-Analysis: Apple Store and Google Play Store
-Author: Shiying Wang, Ruochen Zhong, Qing Gao
+Authors: Shiying Wang, Ruochen Zhong, Qing Gao
 
 
-This is a final project for a statistic course from UC Davis. The original project notebook can be found [here](https://github.com/fsywang/App-Market-Analysis/blob/master/script/full-project-notebook.ipynb).
+This is a final project for a Statistics course from UC Davis. The original project notebook can be found [here](https://github.com/fsywang/App-Market-Analysis/blob/master/script/full-project-notebook.ipynb).
 
 # Motivatin
 
