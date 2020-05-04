@@ -10,7 +10,7 @@ We are curious about market performance for both Apple Store and Google Play Sto
 
 # Data
 
-The code for data aquasition and munging can be found [here]. We use four data sources including two scraped datasets.
+The code for data aquasition and munging can be found [here](https://github.com/fsywang/App-Market-Analysis/blob/master/script/script_data-acquisition-and-munging.ipynb). We use four data sources including two scraped datasets.
 
 - [Mobile App Store from Kaggles](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 - [Google Play Store Apps from Kaggles](https://www.kaggle.com/lava18/google-play-store-apps)
