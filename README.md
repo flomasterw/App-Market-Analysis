@@ -22,3 +22,8 @@ For detail about the data, please contact the authors.
 # Analysis and Visualization
 
 The analysis notebook can be found [here](https://github.com/fsywang/App-Market-Analysis/blob/master/script/script_analysis.ipynb). Presentation slides can be found [here](https://github.com/fsywang/App-Market-Analysis/blob/master/doc/presentation_slides.pdf).
+
+## Future improvement 
+
+We are working on sentiment analysis on user's reviews.
+
